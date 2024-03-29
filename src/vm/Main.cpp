@@ -21,6 +21,7 @@
 // SOFTWARE.
 //
 
+#include <cstring>
 #include <iostream>
 #include <sstream>
 #include "YVM.h"

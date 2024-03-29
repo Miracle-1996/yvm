@@ -24,6 +24,7 @@
 #ifndef YVM_INTERPRETER_H
 #define YVM_INTERPRETER_H
 
+#include <cmath>
 #include <typeinfo>
 #include "../classfile/ClassFile.h"
 #include "../runtime/JavaException.h"
